@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Matheus Bessa
+# 🌐 Matheus Bessa
 
 **`Desenvolvedor Front-end`**
 
