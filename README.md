@@ -20,4 +20,5 @@ Me chamo Matheus Bessa, tenho 21 anos e sou natural de São Paulo. Concluí o cu
 
 <p align="center">
   Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
 </p>
