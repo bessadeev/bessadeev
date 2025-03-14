@@ -11,7 +11,7 @@ Me chamo Matheus Bessa, tenho 21 anos e sou natural de São Paulo. Concluí o cu
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=bessadeev&hide=html,scss,css&langs_count=8&layout=compact&theme=dark&card_width=150" />
 </a>
 
-<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=bessadeev&theme=android-dark"/>
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=bessadeev&theme=whatsapp-dark2"/>
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=bessadeev&theme=onestar&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
 
