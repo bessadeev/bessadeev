@@ -21,11 +21,3 @@ Me chamo Matheus Bessa, tenho 21 anos e sou natural de São Paulo. Concluí o cu
 <p align="center">
   Visitor count<br>
 </p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bessadeev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
