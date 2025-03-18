@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Matheus Bessa, tenho 21 anos e sou natural de São Paulo. Concluí o curso técnico de informática na instituição de ensino SENAI Anchieta - Vila Mariana. Atualmente, estou trabalhando minhas skills como front-end realizando alguns projetos e consumindo diversos cursos da área.
+Me chamo Matheus Bessa, tenho 21 anos e sou natural de São Paulo. Concluí o curso técnico de informática na instituição de ensino SENAI Anchieta - Vila Mariana. Atualmente, estou trabalhando minhas habilidades como front-end realizando alguns projetos e consumindo diversos cursos da área.
 
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=bessadeev&show_icons=true&theme=gotham&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
